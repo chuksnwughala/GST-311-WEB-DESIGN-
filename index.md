@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 
 <head>
@@ -63,7 +63,6 @@
         <img src="./78f12de46a0f0cba815c3f5c448d2919.jpg" width="200px" height="200px">
         <img src="./5b297bae438085ae6ec1bf4883dd1e60.jpg" width="200px" height="200px">
     </div>
-   </div>
 
     <!--Question 4-->
     <h3>Types Of CSS</h3>
