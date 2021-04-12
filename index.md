@@ -56,6 +56,7 @@
     </ul>
 
     <!--Question 5-->
+    <h3>IMAGES</h3>
     <div style="display: flex;margin: 0 1rem;justify-content: space-around;flex: 1">
         <img src="./4a9ff46b1b1a7e041be96eea4eed63318e22ef5f687818e8cb93dc7e85acd31f.jpg" width="200px" height="200px">
         <img src="./5b5c4364d213e64d2dd0ee5c46878e9c.jpg" width="200px" height="200px">
